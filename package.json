@@ -1,0 +1,24 @@
+{
+  "name": "cicd-for-real",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node src/server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrudacaio/cicd-for-real.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrudacaio/cicd-for-real/issues"
+  },
+  "homepage": "https://github.com/arrudacaio/cicd-for-real#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
